@@ -1,0 +1,96 @@
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.deps.json
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.json
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.dev.json
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.dll
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.pdb
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.dll
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.pdb
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.csprojAssemblyReference.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CoreCompileInputs.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfoInputs.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfo.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.input.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.output.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorCoreGenerate.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cache
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cs
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.Views.pdb
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.dll
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.pdb
+C:\Users\CHAMS-DEVELOPER 2\Documents\Visual Studio 2017\Projects\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CopyComplete
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.deps.json
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.json
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.dev.json
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.dll
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.pdb
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.dll
+H:\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.pdb
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.csprojResolveAssemblyReference.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CoreCompileInputs.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfoInputs.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfo.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.input.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.output.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorCoreGenerate.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Blog.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cache
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.Views.pdb
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.dll
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.pdb
+H:\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CopyComplete
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.deps.json
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.json
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.runtimeconfig.dev.json
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.dll
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.pdb
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.dll
+E:\TP\TP\bin\Debug\netcoreapp2.2\TP.Views.pdb
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.csprojAssemblyReference.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CoreCompileInputs.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorAssemblyInfo.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfoInputs.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.AssemblyInfo.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.input.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.TagHelpers.output.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorCoreGenerate.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Blog.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cache
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.RazorTargetAssemblyInfo.cs
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.Views.pdb
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.dll
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.pdb
+E:\TP\TP\obj\Debug\netcoreapp2.2\TP.csproj.CopyComplete
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\about.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\contact.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\models.g.cshtml.cs
+H:\TP\TP\obj\Debug\netcoreapp2.2\Razor\Views\Home\model-single.g.cshtml.cs
